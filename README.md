@@ -10,9 +10,9 @@ Los dataframes utilizados para el estudio fueron: novaretail_comportamiento_clie
 
 Las etapas del desarrollo de análisis fueron:
 
-Cargar y explorar el dataset.
-Preparar datos y documentar supuestos (Datos sin errores y listos para el reporte. Definir variables relevantes y reglas del análisis.).
-Visualizar relaciones iniciales (Heatmap para patrones globales y Scatterplots)
-Calcular correlaciones adecuadas (Pearson/Spearman, Punto biserial, V de Cramér)
-Interpretar resultados (Evidencia → interpretación responsable → implicación)
-Limitaciones y próximos pasos (Qué no se puede concluir + qué harías después)
+1. Cargar y explorar el dataset.
+2. Preparar datos y documentar supuestos (Datos sin errores y listos para el reporte. Definir variables relevantes y reglas del análisis.).
+3. Visualizar relaciones iniciales (Heatmap para patrones globales y Scatterplots)
+4. Calcular correlaciones adecuadas (Pearson/Spearman, Punto biserial, V de Cramér)
+5. Interpretar resultados (Evidencia → interpretación responsable → implicación)
+6. Limitaciones y próximos pasos (Qué no se puede concluir + qué harías después)
