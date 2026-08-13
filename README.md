@@ -1,4 +1,4 @@
-# sprint8-final-proyect-juandavid
+# Explorando factores de comportamiento en NovaRetail+
 
 El objetivo de este proyecto fue construir un análisis correlacional estructurado que combine variables de comportamiento del cliente, segmentación y valor económico para usuarios de NovaRetail+ durante 2024.
 
